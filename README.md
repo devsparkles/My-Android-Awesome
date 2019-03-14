@@ -1,6 +1,5 @@
 # My-Android-Awesome
-Just a collection of links that I found to be useful around the subject of Android Programing
-
+Just a collection of links that I found to be useful around the subject of Android Programing and the other things I code.
 
 ## Check for a version on a server periodically then show a notification that links to the play store so the user can update
 
